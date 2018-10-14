@@ -1,2 +1,3 @@
-# Test1
-Sample Repo
+# SQL_HW
+Sakila_SQL 
+First SQL Assignment 
